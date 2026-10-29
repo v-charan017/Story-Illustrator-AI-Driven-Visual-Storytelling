@@ -1,6 +1,6 @@
 # Story Illustrator: AI-Driven Visual Storytelling
 
-Story Illustrator is a full-stack AI application that transforms raw narrative text into a series of high-fidelity, consistent visual storyboards. Developed as part of a specialized AI workshop, this project leverages **Google's Gemini and Imagen models** to automate the creative process of "story-to-concept-art."
+Story Illustrator is a full-stack AI application that transforms raw narrative text into a series of high-fidelity, consistent visual storyboards. This project leverages **Google's Gemini and Imagen models** to automate the creative process of "story-to-concept-art."
 
 ## Features
 * **Intelligent Text Analysis:** Automatically splits complex stories into key "beats" using NLP logic.
@@ -90,5 +90,5 @@ http://localhost:8501
 ```
 ---
 
-# Origin and Certication
-This project is built as a capstone for a GenAi workshop. It demonstrates application of GenAI workflow, API integration and prompt engineering. With the completion of this and more projects I have earned a certificate of completion.
+# Origin
+It demonstrates application of GenAI workflow, API integration and prompt engineering.
